@@ -32,4 +32,4 @@ Classification model predicting repeat blood donors using Logistic Regression an
 
 ---
 
-📫 Connect with me on LinkedIn: (https://www.linkedin.com/in/navaneeth-prem-66a154352)
+📫 Connect with me on LinkedIn: https://www.linkedin.com/in/navaneeth-prem-66a154352
