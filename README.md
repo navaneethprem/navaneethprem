@@ -6,6 +6,10 @@ I am a Data Analytics student with hands-on experience in building interactive d
 
 ---
 
+📄 **Resume:** [Download Resume](./Navaneeth_Data_Analyst_Resume.pdf)
+
+---
+
 ## 🛠 Technical Skills
 
 - **Languages:** SQL, Python  
